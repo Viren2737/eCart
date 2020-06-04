@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="logout">Logout</string>
+    <string name="categories">Categories</string>
+    <string name="orders">Orders</string>
+    <string name="cart">Cart</string>
+</resources>
